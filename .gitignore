@@ -1,9 +1,1 @@
 secrets.yaml
-
-# : 주석
-# secrets.yaml
-# *.yaml
-# logs (logs 이름을 가지는 파일 폴더와 그 내용들)
-# logs/debug/log (logs 폴더 밑에 있는 debug.log)
-# logs/*.log : logs 밒에 있는 모든 몰더 근데 파일 형식이 .log로 끝나는 것
-# logs/**/debug.log (logs 폴더 밑에 있는 폴더와 파일을 포함해서 debug.log 제외)
