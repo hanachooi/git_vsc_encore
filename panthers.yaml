@@ -1,6 +1,8 @@
 team : Panthers
 
-manager : chan-nni
+manager : 
+- chan-nni
+- jslim
 
 member : 
 - g
