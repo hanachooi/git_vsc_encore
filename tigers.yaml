@@ -1,6 +1,8 @@
 team : Tigers
 
-manager : jslim
+manager : 
+- jslim
+- chan-nni
 
 member : 
 - a
