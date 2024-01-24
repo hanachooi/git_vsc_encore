@@ -1,7 +1,8 @@
 team : Leopards
 
-manager : 
-- jhbeak
+manager : jhbeak
+
+coach : encore
 
 member : 
 - g
